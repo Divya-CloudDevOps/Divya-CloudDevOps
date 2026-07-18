@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Divya-CloudDevOps/Divya-CloudDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭 I’m currently working on: Strengthening my Cloud & DevOps skills, including AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, and GitHub Actions CI/CD<br>🤝 I’m looking to collaborate on: Cloud infrastructure and DevOps automation projects<br>🌱 I’m currently learning: Container orchestration with Kubernetes, Infrastructure as Code (Terraform), and monitoring with Grafana & Prometheus<br>💬 Ask me about: AWS, DevOps pipelines, CI/CD automation, or containerization<br>⚡ Fun fact: I love automating things that don’t need to be automated — just for the challenge!<br>🚀 Skills: <br>☁️ Cloud: AWS<br>🐳 Containers: Docker, Kubernetes<br>🏗️ IaC: Terraform, Ansible<br>🔄 CI/CD: Jenkins, GitHub Actions<br>📊 Monitoring: Grafana, Prometheus<br>🔧 Version Control: Git, GitHub<br>📫 Connect with me:<br>🔗 LinkedIn: https://www.linkedin.com/in/ksdivya-sree-cloud-devops<br>📧 Email: ksdivyaa2001@gmail.com<br>🌐 Portfolio: https://divya-clouddevops.github.io/DevOps-Portfolio-2026
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Divya-CloudDevOps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Divya-CloudDevOps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divya-CloudDevOps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Divya-CloudDevOps&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
